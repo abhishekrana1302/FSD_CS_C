@@ -1,0 +1,30 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#reg-form
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#heading
+{
+    background-color: chartreuse;
+    font-size: 60px;
+    text-align: center;
+    border: 10px solid red;
+}
+
+table{
+    background-color: chartreuse;
+    font-size: 40px;
+    text-align: center;
+    border: 10px solid red;
+}
+input{
+    width: 200px;
+}
+    
