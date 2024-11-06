@@ -1,0 +1,34 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: red;
+}
+.container{
+    background-color: aquamarine;
+    height: 300px;
+    border: 2px solid red;
+    margin: 40px 20px 80px;
+    padding-top: 150px;
+    padding-left: 300px;
+}
+
+spam{
+    background-color: red;
+}
+.child1,.child2,.child3{
+    background-color: brown;
+    height: 150px;
+    border: 2px solid greenyellow;
+    width: 150px;
+    display: inline-block;
+}
+.child1{
+    background-color: red;
+}
+.child2{
+    background-color: gainsboro;
+}
+.child3{
+    background-color: grey;
+}
